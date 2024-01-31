@@ -1,4 +1,3 @@
-import "./css/bootstrap-5.2.3/dist/css/bootstrap.css";
 import React, { useState, useRef } from "react";
 import "./App.css";
 
